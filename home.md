@@ -5,4 +5,4 @@
 
 <img src="https://www.placecage.com/200/300" alt="Cage"/>
 
-![200](/uploads/200 "200"){.pagelogo}
+![200](/uploads/200 "200"){.pa![200](/uploads/200 "200"){.align-center}gelogo}
